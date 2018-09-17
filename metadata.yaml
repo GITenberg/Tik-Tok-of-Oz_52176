@@ -1,0 +1,56 @@
+_repo: Tik-Tok-of-Oz_52176
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Neill, John R. (John Rea)
+    alias: Neill, John Rea
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '26521'
+    url: http://www.gutenberg.org/2009/agents/26521
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Baum, Lyman Frank
+    - Staunton, Schuyler
+    - Akers, Floyd
+    - Cooke, John Estes
+    - Fitzgerald, Hugh
+    - Van Dyne, Edith
+    - Bancroft, Laura
+    - Metcalf, Suzanne
+    - Fitzgerald, Capt. Hugh
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: ''
+gutenberg_issued: '2016-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Princess Ozma (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Gale, Dorothy (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Oz (Imaginary place) -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Mules -- Juvenile fiction'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcsh 'Animals, Mythical -- Juvenile fiction'
+- !lcsh 'Good and evil -- Juvenile fiction'
+- !lcsh 'Dragons -- Juvenile fiction'
+- GITenberg
+title: Tik-Tok of Oz
+url: http://www.gutenberg.org/ebooks/52176
