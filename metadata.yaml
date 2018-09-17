@@ -1,5 +1,5 @@
 _repo: Tik-Tok-of-Oz_52176
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Neill, John R. (John Rea)
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26521'
     url: http://www.gutenberg.org/2009/agents/26521
     wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+covers:
+- cover_type: archival
+  image_path: 52176-h/images/cover.jpg
 creator:
   author:
     agent_name: Baum, L. Frank (Lyman Frank)
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42
     wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52176#Tik-Tok-of-Oz
 gutenberg_issued: '2016-05-28'
 gutenberg_type: Text
 identifiers:
